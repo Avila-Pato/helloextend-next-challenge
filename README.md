@@ -44,3 +44,11 @@ Consulta el diseño disponible en **Figma** aquí:
 
 
 ¡Diviértete explorando las razas de perros y guardando tus imágenes favoritas! 🐕💖
+
+## Reeferencias 
+![Screenshot_8-1-2025_185330_localhost](https://github.com/user-attachments/assets/86055617-b114-486a-8288-6a56a4255242)
+
+![Screenshot_8-1-2025_185342_localhost](https://github.com/user-attachments/assets/f623c3fe-0d59-4a31-b94a-49105f9c27ef)
+
+
+
