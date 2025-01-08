@@ -30,7 +30,7 @@ El objetivo de este desafío es permitir que el usuario busque una raza de perro
 
 - **📋 Listado de razas**: La aplicación también muestra una lista de razas de perros disponibles. Al seleccionar una raza, se mostrará una lista con las imágenes correspondientes.
 
-- **🎨 Diseño**: El diseño es limpio y sencillo, inspirado en el mockup de **Figma**, que facilita la navegación entre razas de perros y la visualización de imágenes.  
+- **🎨 Diseño**: El diseño es limpio y sencillo, inspirado en el mockup de **Figma**, que facilita la navegación entre razas de perros y la visualización de imágenes .  
 
 Consulta el diseño disponible en **Figma** aquí:  
 [Dog Breeds Figma Design](https://www.figma.com/design/GsigoCnExV2jjTBanMZwFr/Dog-Breeds?node-id=0-1&p=f&t=8LEubC1qxGQI02m2-0)
