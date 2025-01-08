@@ -9,7 +9,7 @@ interface Props {
 
 export default async function BreedPage({ params: { breed } }: Props) {
   const response = await fetch(
-    `https://dog.ceo/api/breed/${breed}/images/random/10`
+    `https://dog.ceo/api/breed/${breed}/images/random/4`
   );
   const { message: images } = (await response.json()) as { message: string[] };
 
