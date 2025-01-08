@@ -2,6 +2,11 @@
 
 Este proyecto tiene como objetivo permitir al usuario buscar y explorar diferentes razas de perros, visualizando hasta 10 imágenes de cada raza. Además, integra la funcionalidad de persistencia para guardar imágenes en favoritos al presionar un ícono de corazón. Se utiliza **Zustand** para gestionar el estado global de las imágenes y sus favoritos.
 
+## 📚 Enfoque del Proyecto
+
+Este proyecto no está tan enfocado en que se vea perfecto, sino en aprender a utilizar componentes, funcionalidades y gestionar el estado de manera efectiva. El objetivo principal es familiarizarse con el uso de **Next**, **Zustand**, y la interacción con APIs externas, así como manejar la persistencia de datos y la gestión de estado en una aplicación dinámica.
+
+
 ## 📚 Revisión de la API Dog.ceo By Breed
 
 Para obtener las imágenes de las razas de perros, utilizamos la API de **Dog.ceo**, en el endpoint "By Breed". Esta API permite obtener imágenes de diferentes razas de perros, que luego se integran a la aplicación para mostrar hasta 10 imágenes por raza.
