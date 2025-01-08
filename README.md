@@ -1,6 +1,4 @@
-# Revisión del Mockup en Figma
-
-**Nota:** es posible que necesites registrarte en una cuenta gratuita de Figma para inspeccionar las propiedades de estilo requeridas para los elementos, como rellenos, márgenes, etc.
+# Challange HelloExtend
 
 Revisa el mockup disponible en Figma:  
 [Dog Breeds Figma Design](https://www.figma.com/design/GsigoCnExV2jjTBanMZwFr/Dog-Breeds?node-id=0-1&p=f&t=8LEubC1qxGQI02m2-0)
